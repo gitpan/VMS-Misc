@@ -1,0 +1,6 @@
+CHANGES
+Makefile.PL
+MANIFEST
+Misc.pm
+Misc.xs
+test.pl
